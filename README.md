@@ -4,10 +4,16 @@
 
 
 
-功能特色
-- 利用 HTML5、CSS3、JavaScript製作網站
-- RWD 響應式設計，當畫面縮小上方導覽列會縮減成選單，方便觀看選擇
-- 外部 CSS 引用
-- CSS position float flex 排版應用
+功能
+-  番茄鐘工作法，區分專注與休息時間，更有效率完成任務
+-  可自行設定專注休息時間
+-  添加新任務
+-  計時器有開始、暫停、重新開始等功能
 
-# tomato
+技術
+-  HTNL、CSS 、JavaScript 結合
+-  計時器的使用及清除
+-  JavaScript對DOM的操作 
+-  icon圖標應用
+
+
