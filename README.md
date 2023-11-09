@@ -1,4 +1,4 @@
-# 番茄鐘
+# 番茄鐘工作法
 ![tomato](https://github.com/PengYuan-Chen/tomato/assets/56713107/17eaba2a-69c2-4ef9-830c-e32468188510)
 
 
