@@ -14,6 +14,6 @@
 -  HTNL、CSS 、JavaScript 結合
 -  計時器的使用及清除
 -  JavaScript對DOM的操作 
--  icon圖標應用
+-  icons 圖標應用
 
 
