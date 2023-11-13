@@ -11,7 +11,7 @@
 -  計時器有開始、暫停、重新開始等功能
 
 技術
--  HTNL、CSS 、JavaScript 結合
+-  HTML、CSS 、JavaScript 結合
 -  計時器的使用及清除
 -  JavaScript對DOM的操作 
 -  icons 圖標應用
